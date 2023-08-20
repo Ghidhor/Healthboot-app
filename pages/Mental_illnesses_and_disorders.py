@@ -4,7 +4,7 @@ import numpy as np
 
 tableeee = pd.read_csv("table.xlsx")
 
-from streamlit_option_menu import option_menu
+#from streamlit_option_menu import option_menu
 
 st.title("Health App")
 st.markdown("## This is a list of some of the mental disorders affecting Teens")
